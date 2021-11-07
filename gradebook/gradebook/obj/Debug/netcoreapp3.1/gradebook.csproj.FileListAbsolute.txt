@@ -1,0 +1,14 @@
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.exe
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.deps.json
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.json
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.dev.json
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.dll
+C:\github\c#_tutorial\gradebook\gradebook\bin\Debug\netcoreapp3.1\gradebook.pdb
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.csproj.AssemblyReference.cache
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfoInputs.cache
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfo.cs
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.csproj.CoreCompileInputs.cache
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.dll
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.pdb
+C:\github\c#_tutorial\gradebook\gradebook\obj\Debug\netcoreapp3.1\gradebook.genruntimeconfig.cache

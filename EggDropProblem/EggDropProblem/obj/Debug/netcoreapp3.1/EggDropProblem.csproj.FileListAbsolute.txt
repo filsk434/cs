@@ -1,0 +1,14 @@
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.exe
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.deps.json
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.runtimeconfig.json
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.runtimeconfig.dev.json
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.dll
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\bin\Debug\netcoreapp3.1\EggDropProblem.pdb
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.csproj.AssemblyReference.cache
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.AssemblyInfoInputs.cache
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.AssemblyInfo.cs
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.csproj.CoreCompileInputs.cache
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.dll
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.pdb
+C:\github\c#_tutorial\EggDropProblem\EggDropProblem\obj\Debug\netcoreapp3.1\EggDropProblem.genruntimeconfig.cache
